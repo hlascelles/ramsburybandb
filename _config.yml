@@ -9,6 +9,8 @@ url: "https://www.ramsburybandb.com/" # the base hostname & protocol for your si
 markdown: kramdown
 theme: minima
 
+google_analytics: UA-142719874-1
+
 plugins:
 - jekyll-sitemap
 - jekyll-seo-tag
