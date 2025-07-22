@@ -69,3 +69,9 @@ build-iPhoneSimulator/
 _site
 .sass-cache
 .jekyll-metadata
+/log
+.rspec_status
+.byebug_history
+**/.byebug_history
+.bundle
+**/.bundle
